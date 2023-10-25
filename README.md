@@ -8,7 +8,7 @@
 
 **Nếu không muốn tự cài đặt các thành phần cần thiết**, bạn có thể sử dụng nền tảng [Demeter.run](https://demeter.run) để tạo môi trường đám mây có quyền truy cập vào cơ sở hạ tầng Cardano chung. Lệnh sau sẽ mở kho lưu trữ này trong một IDE VSCode dựa trên web, riêng tư với tất cả chuỗi công cụ Haskell cần thiết, quyền truy cập vào Node Cardano được chia sẻ và tệp nhị phân được cài đặt sẵn của `cardano-cli`.
 
-![[Mã trong Cardano Workspace](https://demeter.run/code/badge.svg)](https://demeter.run/code?repository=https://github.com/txpipe/plutus-starter -kit.git&template=plutus)
+[![Mã trong Cardano Workspace](https://demeter.run/code/badge.svg)](https://demeter.run/code?repository=https://github.com/txpipe/plutus-starter -kit.git&template=plutus)
 
 ## I. Bắt đầu 
 
